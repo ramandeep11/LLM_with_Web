@@ -4,7 +4,7 @@ LLM's with Web search capability
 This project combines LLM (Language Learning Model) capabilities with web search functionality to provide intelligent campaign information retrieval for companies. It uses DuckDuckGo search, web scraping, and the Deepseek LLM model to analyze and extract relevant campaign information.
 
 ## Features
-- Web search using DuckDuckGo API
+- Web search using Duckduckgo Search
 - Web scraping with BeautifulSoup
 - LLM-powered content analysis using Deepseek
 - Simple Gradio UI interface
